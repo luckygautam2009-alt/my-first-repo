@@ -62,3 +62,9 @@ console.log(successor);
 let predcessor = 201;
 --predcessor;
 console.log(predcessor);
+
+
+let z = 95;
+let string = String(z)
+console.log(string);
+console.log(typeof string);
